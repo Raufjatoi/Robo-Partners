@@ -51,8 +51,8 @@ const Footer = () => {
             <h3 className="text-xl font-bold mb-4">Contact Us</h3>
             <ul className="space-y-2 text-gray-300">
               <li>Email: robopartners@gmail.com</li>
-              <li>Phone: +92 3192479656</li>
-              <li>Address: Karachi - Pakistan</li>
+              <li>Phone: +92 615 249 8411</li>
+              <li>Address: Nashville,Tn</li>
             </ul>
           </div>
         </div>
