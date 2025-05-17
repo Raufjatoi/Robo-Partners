@@ -32,9 +32,9 @@ const Navbar = () => {
         <div className="flex items-center justify-between">
           <a href="#" className="flex items-center">
             <img 
-              src="robo.jpeg" 
-              alt="Robo Partners Logo" 
-              className="h-10 md:h-12"
+              src="robo1.png" 
+              alt="Robo Growth Partners Logo" 
+              className="h-12 md:h-14"
             />
           </a>
 

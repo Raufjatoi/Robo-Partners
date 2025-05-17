@@ -51,7 +51,7 @@ const Footer = () => {
             <h3 className="text-xl font-bold mb-4">Contact Us</h3>
             <ul className="space-y-2 text-gray-300">
               <li>Email: robopartners@gmail.com</li>
-              <li>Phone: +92 615 249 8411</li>
+              <li>Phone: +1 615-502-3388</li>
               <li>Address: Nashville,Tn</li>
             </ul>
           </div>
@@ -59,7 +59,7 @@ const Footer = () => {
         
         <div className="border-t border-gray-800 mt-12 pt-6 text-center">
           <p className="text-gray-400">
-            &copy; {new Date().getFullYear()} Robo Partners (formerly Crafty Automation). All rights reserved.
+            &copy; {new Date().getFullYear()} Robo Growth Partners - All rights reserved.
           </p>
         </div>
       </div>
