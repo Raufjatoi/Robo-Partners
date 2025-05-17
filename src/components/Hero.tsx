@@ -17,7 +17,7 @@ const Hero = () => {
       <div className="container mx-auto px-4 relative z-20">
         <div className="max-w-4xl">
           <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold text-white leading-tight mb-6 animate-fade-in">
-            AI Agents to Make You Over <span className="text-blue-400">$100K</span> Per Year
+            AI Technology Can Help Scale Your <span className="text-blue-400">Business</span>
           </h1>
           <p className="text-xl md:text-2xl text-gray-200 mb-8 max-w-2xl animate-fade-in" style={{animationDelay: '0.2s'}}>
             Transform your business with our cutting-edge AI automation solutions, designed to boost efficiency, increase revenue, and streamline your operations.

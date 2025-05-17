@@ -17,9 +17,16 @@ const CTA = () => {
           </p>
           */ }
           <div className="flex flex-col sm:flex-row justify-center gap-4">
-            <Button className="bg-white text-roboblack hover:bg-gray-100 text-lg py-6 px-8">
-              Schedule a Demo <ArrowRight className="ml-2 h-5 w-5" />
-            </Button>
+            <a 
+  href="https://tinyurl.com/AI-Vision-Discovery-Meeting" 
+  target="_blank" 
+  rel="noopener noreferrer"
+>
+  <Button className="bg-white text-roboblack hover:bg-gray-100 text-lg py-6 px-8">
+    Schedule a Demo <ArrowRight className="ml-2 h-5 w-5" />
+  </Button>
+</a>
+
          <a href="mailto:info@robogrowthpartners.ai">
         <Button
         variant="outline"

@@ -34,7 +34,7 @@ const Navbar = () => {
             <img 
               src="robo1.png" 
               alt="Robo Growth Partners Logo" 
-              className="h-12 md:h-14"
+              className="h-16 md:h-20"
             />
           </a>
 

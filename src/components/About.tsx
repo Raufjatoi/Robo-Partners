@@ -54,7 +54,7 @@ const About = () => {
             </div>
             <div className="absolute -bottom-6 -right-6 bg-roboblue rounded-lg p-6 shadow-xl">
               <p className="text-xl font-bold text-white">
-                "Helping businesses achieve over $100K in annual revenue through AI automation"
+                "Helping businesse with AI automation"
               </p>
             </div>
           </div>
